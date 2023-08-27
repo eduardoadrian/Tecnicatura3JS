@@ -27,3 +27,4 @@ class Cliente extends Persona{
         ${this._fechaRegistro}`;
     }
 }
+//probar commit
